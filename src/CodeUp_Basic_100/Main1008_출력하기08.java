@@ -57,7 +57,7 @@
 
 package CodeUp_Basic_100;
 
-public class Main1008 {
+public class Main1008_출력하기08 {
 
 	public static void main(String[] args) {
 		

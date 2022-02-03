@@ -35,7 +35,7 @@ package CodeUp_Basic_100;
 
 import java.util.Scanner;
 
-public class Main1010 {
+public class Main1010_정수1개입력받아그대로출력하기 {
 
 	public static void main(String[] args) {
 		

@@ -33,7 +33,7 @@
 
 package CodeUp_Basic_100;
 
-public class Main1005 {
+public class Main1005_출력하기05 {
 
 	public static void main(String[] args) {
 		
