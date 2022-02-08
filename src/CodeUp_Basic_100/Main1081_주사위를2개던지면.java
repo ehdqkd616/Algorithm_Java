@@ -1,10 +1,6 @@
 package CodeUp_Basic_100;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
+import java.util.Scanner;
 
 public class Main1081_주사위를2개던지면 { 
 

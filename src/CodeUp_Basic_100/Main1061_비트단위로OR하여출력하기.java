@@ -1,10 +1,6 @@
 package CodeUp_Basic_100;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
+import java.util.Scanner;
 
 public class Main1061_비트단위로OR하여출력하기 { 
 

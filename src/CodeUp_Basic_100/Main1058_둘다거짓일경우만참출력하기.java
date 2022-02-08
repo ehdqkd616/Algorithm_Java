@@ -1,10 +1,6 @@
 package CodeUp_Basic_100;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
+import java.util.Scanner;
 
 public class Main1058_둘다거짓일경우만참출력하기 { 
 

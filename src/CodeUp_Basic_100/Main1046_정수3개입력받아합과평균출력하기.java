@@ -1,10 +1,6 @@
 package CodeUp_Basic_100;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
+import java.util.Scanner;
 
 public class Main1046_정수3개입력받아합과평균출력하기 { 
 

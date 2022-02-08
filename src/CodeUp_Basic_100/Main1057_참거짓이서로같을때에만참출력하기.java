@@ -1,12 +1,8 @@
 package CodeUp_Basic_100;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
+import java.util.Scanner;
 
-public class Main1056_참거짓이서로다를때에만참출력하기 { 
+public class Main1057_참거짓이서로같을때에만참출력하기 { 
 
     public static void main(String[] args) {
     	
